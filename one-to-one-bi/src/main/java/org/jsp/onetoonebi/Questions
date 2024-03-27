@@ -1,0 +1,14 @@
+One-to-One-Bidirectional Assignments
+
+1-> Find User By Id									Done
+2-> Find User By Name								Done
+3-> Find User By Phone								Done
+4-> Find User By Aadhar Id							Done
+5-> Find User By Aadhar Number						Done
+6-> Find User By Aadhar Number and Date of Birth	Done
+7-> Find Aadhar By Id								Done
+8-> Find Aadhar By Number							Done
+9-> Find Aadhar By Number and Date Of Birth			Done
+10->Find Aadhar By User Id							Done
+11->Find Aadhar By User Phone						Done
+12->Find Aadhar By User Name and Phone				
